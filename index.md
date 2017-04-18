@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Newcastle Scalable Group
 
 You can use the [editor on GitHub](https://github.com/NewcastleComputingScience/newcastle-scalable.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
